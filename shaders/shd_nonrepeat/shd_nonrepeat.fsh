@@ -36,7 +36,7 @@ vec2	RandomTransform(vec2 UV, vec2 seed){
 	vec3 hash = Hash2(seed);
 	float rot = mix(-3.1415, 3.1415, fract(hash.b*16.));
 	float scl = mix(.8, 1.2, hash.b);
-	return Transform(UV, 0., vec2(scl), hash.xy);
+	return Transform(UV, rot, vec2(scl), hash.xy);
 }
 
 // Process
