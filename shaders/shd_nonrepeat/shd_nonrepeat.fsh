@@ -14,7 +14,7 @@ vec2	Rotate(vec2 UV, float amount){
 	vec2 center = vec2(.5) * tex_repeat;
 	UV -= center;	
 	vec2 rot = vec2(cos(amount), sin(amount));
-	return vec2((rot.x * UV.x) + (rot.y * UV.y), (rot.x * UV.y) - (rot.y * UV.x)); + center;
+	return vec2((rot.x * UV.x) + (rot.y * UV.y), (rot.x * UV.y) - (rot.y * UV.x)) + center;
 }
 vec3	Hash2(vec2 UV){
 	return fract(sin(vec3(
