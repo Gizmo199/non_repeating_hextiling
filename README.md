@@ -5,5 +5,5 @@ This shader allows you to create infinately non-repeating hextile patterns for t
 With this shader you can apply it to a sprite or texture and get some really great randomized results! Perfect for grass, cobblestone, ground, etc!
 
 ## Credits
-[Practical Real-Time Hex-tiling](https://jcgt.org/published/0011/03/05/) - Morten S. Mikkelsen, *Unity Technologies, USA*
-[Inifinite Hex-Grid Tiling](https://youtube.com/playlist?list=PL78XDi0TS4lGYQ0R3lGjAYSh-h1kseGfa) - [Ben Cloward](https://www.youtube.com/c/BenCloward)
+- [Practical Real-Time Hex-tiling](https://jcgt.org/published/0011/03/05/) - Morten S. Mikkelsen, *Unity Technologies, USA*
+- [Inifinite Hex-Grid Tiling](https://youtube.com/playlist?list=PL78XDi0TS4lGYQ0R3lGjAYSh-h1kseGfa) - [Ben Cloward](https://www.youtube.com/c/BenCloward)
