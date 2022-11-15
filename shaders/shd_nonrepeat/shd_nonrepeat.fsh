@@ -1,4 +1,5 @@
-// https://www.youtube.com/watch?v=hc6msdFcnA4
+// Ben Cloward tutorial						https://www.youtube.com/watch?v=hc6msdFcnA4
+// Practical Real-Time Hex-Tiling Paper		https://jcgt.org/published/0011/03/05/
 
 varying vec2		v_vTexcoord;
 varying vec4		v_vColour;
