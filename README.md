@@ -1,4 +1,4 @@
-![beforeandafter](https://user-images.githubusercontent.com/25496262/201946155-3330a82a-032f-47e5-a1b9-47fae9a477b8.png)
+![beforeandafter](https://user-images.githubusercontent.com/25496262/201968576-c85762fa-82e2-4c2a-a0fa-b22cfa10afaf.png)
 
 ## About
 This shader allows you to create infinately non-repeating hextile patterns for textures. Normally repeating textures looks very...well...repetitive. 
